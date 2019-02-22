@@ -1,0 +1,1 @@
+1.0.1 - Fehler behoben, ausführen des Befehls wurde nicht blockiert und Config hinzugefügt
